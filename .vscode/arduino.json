@@ -1,0 +1,6 @@
+{
+    "sketch": "fff.ino",
+    "port": "COM7",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old"
+}
